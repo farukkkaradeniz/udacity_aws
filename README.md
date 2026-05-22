@@ -14,6 +14,8 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
 
+Test Plugin 1
+
 1. Initialize a new project: `npm i`
 2. run the development server with `npm run dev`
 
